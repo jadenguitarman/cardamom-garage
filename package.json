@@ -1,0 +1,11 @@
+{
+	"name": "getting-started-with-beryl",
+	"version": "0.0.1",
+	"description": "A sample Beryl app",
+	"engines": {
+		"node": "12.x"
+	},
+	"dependencies": {
+		"gin-vermouth-absinthe": "0.7.1"
+	}
+}

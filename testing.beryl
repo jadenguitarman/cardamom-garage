@@ -1,0 +1,7 @@
+import package from server.js
+log starting to the console
+create a new server
+log up to the console
+scooby/doo req: when a get request matches scooby/doo
+	log scooby doo to the console
+end when scooby/doo
