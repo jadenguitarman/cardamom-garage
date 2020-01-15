@@ -6,6 +6,6 @@
 		"node": "12.x"
 	},
 	"dependencies": {
-		"gin-vermouth-absinthe": "0.7.1"
+		"gin-vermouth-absinthe": "0.7.2"
 	}
 }
